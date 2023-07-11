@@ -64,8 +64,8 @@ Set up docker, docker-compose to execute commands
 
 
 ## :hammer_and_pick: Tools
-**Fill in the format [Link] else - **
-| Name  | Production | Develop | Comment |
+**Fill in the format [Link] else -**
+| Название  | Production | Develop | Comment |
 | ------------- | ------------- | ------------- | ------------- |
 | Sentry  | - | - |
 | Jaeger  | -  | - | Services: **[service_name]**
